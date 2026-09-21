@@ -434,6 +434,10 @@
     ]
   },
   {
+    "id": "product-platform",
+    "fields": []
+  },
+  {
     "id": "product-platform-header",
     "fields": [
       {
